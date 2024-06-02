@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "99478645576",
+    "firebase_url": "https://lab-automation-9c5d5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab-automation-9c5d5",
+    "storage_bucket": "lab-automation-9c5d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99478645576:android:4b260794aed7fca8c2617d",
+        "android_client_info": {
+          "package_name": "com.example.lab_automation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqgNfBqGekcu863QjzYLyi2mJ_6dzLLtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
